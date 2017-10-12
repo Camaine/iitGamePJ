@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{28B150F3-4FB5-AB12-90E5-F8800146CB84}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Twitter/Scripts/TwitterInit.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="20" Column="11" />
+      <File FileName="Assets/Scripts/Mover.cs" Line="8" Column="32" />
+      <File FileName="Assets/Scripts/LoginModule.cs" Line="301" Column="6" />
+      <File FileName="Assets/Scripts/MenuController.cs" Line="11" Column="23" />
+      <File FileName="Assets/Twitter/Demo/Scripts/TwitterDemo.cs" Line="19" Column="3" />
+      <File FileName="Assets/Twitter/Scripts/TwitterInit.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IIT_220course_220PJ PreferredExecutionTarget="Unity.Editor" />
+</Properties>

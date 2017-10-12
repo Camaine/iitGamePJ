@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IIT course PJ", "IIT course PJ.csproj", "{28B150F3-4FB5-AB12-90E5-F8800146CB84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IIT course PJ.Editor", "IIT course PJ.Editor.csproj", "{A8EC2DDB-BA27-EF6E-7DF3-0F2317D82020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28B150F3-4FB5-AB12-90E5-F8800146CB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B150F3-4FB5-AB12-90E5-F8800146CB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B150F3-4FB5-AB12-90E5-F8800146CB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B150F3-4FB5-AB12-90E5-F8800146CB84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8EC2DDB-BA27-EF6E-7DF3-0F2317D82020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8EC2DDB-BA27-EF6E-7DF3-0F2317D82020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8EC2DDB-BA27-EF6E-7DF3-0F2317D82020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8EC2DDB-BA27-EF6E-7DF3-0F2317D82020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

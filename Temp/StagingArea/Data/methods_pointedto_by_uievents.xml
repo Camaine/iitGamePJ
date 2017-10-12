@@ -1,0 +1,18 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="LoginModule">
+			<method name="RegisterCloseBtn"/>
+			<method name="FBloginBtn"/>
+			<method name="SubmitBtn"/>
+			<method name="EmailLoginBtn"/>
+			<method name="LoginCloseBtn"/>
+			<method name="PopupCloseBtn"/>
+			<method name="LoginBtn"/>
+			<method name="TwitterLoginBtn"/>
+			<method name="NewAccountBtn"/>
+		</type>
+		<type fullname="MenuController">
+			<method name="SingleGameBtn"/>
+		</type>
+	</assembly>
+</linker>
